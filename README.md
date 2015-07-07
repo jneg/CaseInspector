@@ -1,2 +1,2 @@
 # CaseInspector
-Test Suite for verifying all test cases of a program.
+Script that verifies all test cases provided are valid.
